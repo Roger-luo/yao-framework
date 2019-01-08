@@ -1,0 +1,10 @@
+name = "YaoDevEnv"
+uuid = "d3998168-0e37-11e9-0c9e-bbf693ab29e7"
+authors = ["Roger-luo <hiroger@qq.com>"]
+version = "0.1.0"
+
+[deps]
+LuxurySparse = "d05aeea4-b7d4-55ac-b691-9e7fabb07ba2"
+Yao = "5872b779-8223-5990-8dd0-5abbb0748c8c"
+YaoBase = "774cebe0-ffd5-11e8-22d5-535b72c6bdcb"
+YaoDenseRegister = "7116cffc-0e35-11e9-1cb0-6b76a478a4cd"
